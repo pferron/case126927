@@ -1,5 +1,0 @@
-rootProject.name = 'greenfield-metrics'
-include 'greenfield-metrics-app'
-include 'sdk'
-include 'sdk:metrics-sdk-api'
-include 'sdk:metrics-sdk-rest'
